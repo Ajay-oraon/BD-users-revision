@@ -1,0 +1,15 @@
+{
+  "name": "bd-users_revision",
+  "version": "1.0.0",
+  "description": "This is revision to crete node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Oraon",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
